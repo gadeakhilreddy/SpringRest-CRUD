@@ -1,4 +1,4 @@
-package com.springboot.postman.serviceimpl;
+package com.springboot.postman.service;
 
 
 import java.util.List;
